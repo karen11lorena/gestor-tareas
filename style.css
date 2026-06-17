@@ -1,0 +1,34 @@
+body{
+    font-family: Arial,sans-serif; /*Fuente del texto*/
+    background: #FAEBD7;  /* Color de fondo*/
+    display: flex;  /* usa flexbox para centrar*/
+    justify-content: center;  /* Centra horizontalmente*/
+    margin-top: 50px; /* Espacio superior*/
+}
+
+.container{
+    background: #D1ED81; /*Fondo del contenedor*/
+    padding: 20px; /* Espaciado interno*/
+    border-radius: 8px; /* Bordes redondeados*/
+    width: 300px; /* Ancho fijo*/
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Sombra*/
+}
+
+h2 {
+    text-align: center; /* Centra el titulo*/
+}
+
+#taskList{
+list-style: none; /*Quita viñetas*/
+padding: 0; /* Quita espacio interno*/
+
+}
+
+.task {
+    display: flex; /* Organiza elementos en fila*/
+    justify-content: space-between; /* separa botones y texto*/
+    margin: 5px 0; /* Espacio entre tareas*/
+    padding: 8px; /* Espaciado interno*/
+    background: white;  /*Fondo blanco*/
+    border-radius: 5px;  /* Bordes redondeados*/
+}
