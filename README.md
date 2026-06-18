@@ -20,4 +20,6 @@ De esta manera, no solo construí la aplicación, sino que también reforcé mis
 entendiendo cómo cada fragmento contribuye al funcionamiento del gestor de tareas.
 
 vista previa 
+![Vista previa](imagenes/captura1.png)
+
 
