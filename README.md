@@ -18,3 +18,6 @@ utilicé apoyo de herramientas de IA para generar parte del código,
 pero me tomé el tiempo de analizarlo cuidadosamente y comprender la función de cada línea.
 De esta manera, no solo construí la aplicación, sino que también reforcé mis conocimientos en HTML, CSS y JavaScript, 
 entendiendo cómo cada fragmento contribuye al funcionamiento del gestor de tareas.
+
+vista previa 
+
